@@ -4,8 +4,9 @@ url = "http://library.domino.local/api/v1/books"
 token = "TU_TOKEN_AQUI"
 
 data = {
+    "id": 20
     "title": "Examen Final Programacion Redes",
-    "author": "MiguelVillaEditorUaTF"
+    "author": "Mayte Kiara Villanueva Alderete"
 }
 
 headers = {
